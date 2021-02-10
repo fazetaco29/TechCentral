@@ -51,6 +51,10 @@ a:hover{
 h1.header{
    border-style: solid ;
    border-color: rgb(209, 73, 10);
+   position: fixed;
+   top:0px;
+   left:0px;
+    z-index: 10;
 }
 
 h2{
