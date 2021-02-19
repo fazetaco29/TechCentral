@@ -1,0 +1,114 @@
+body{
+    background-color: coral;
+}
+.header{
+    height: 100px;
+    width: auto;
+    background-image: url(./Pictures/Background-image.jpeg);
+    border-style: solid;
+    border-color: white;
+    text-align: center ;
+    
+
+}
+h1{
+    color: coral;
+    font-size: 35px;
+    margin-left: 10px;
+}
+.sidebar{
+    border-style: solid;
+    border-color: white;
+    height: 450px;
+    width: 250px;
+    background-color: #363945;
+    margin-top: 30px;
+    float: left;
+    display: block;
+}
+.side_bar{
+    list-style-type: none;
+    color: coral;
+    padding-right: 10px;
+    font-size: 20px;
+    height: 25px;
+    width: 200px;
+}
+
+.search_bar{
+    margin-top: 10px;
+    margin-left: 20px;
+    border-style: none;
+    border-color: coral;
+    height: 25px;
+    width: 20px;
+    font-size: 15px;
+}
+.main{
+    border-style: solid;
+    border-color: white;
+    height: 800px;
+    margin-top: 30px;
+    margin-left: 300px;
+    background-color: #363945;
+    color: coral;
+    padding: 10px;
+    min-width: 800px;
+}
+.subheader{
+    font-size: 25px;
+}
+a{
+    color: coral;
+}
+.img_tech{
+    margin-top: -350px;
+}
+img{
+    height: 150px;
+    width: 260px;
+    border-style: solid;
+    border-color: #363945;
+}
+.div_img{
+    display: flex;
+}
+.Keyboard{
+   border-style: solid;
+   border-color: white; 
+
+}
+.gadgets{
+    border-style: solid;
+    border-color: white;
+}
+.web_hosting{
+    border-style: solid;
+    border-color: white;
+    margin-bottom: 10px;
+}
+.Amzn_gad{
+    margin-right: 5px;
+}
+.headset{
+    border-style: solid;
+    border-color: white;
+}
+.div_img2{
+    display: flex;
+}
+.college{
+    border-style: solid;
+    border-color: white;
+}
+.code{
+    border-style: solid;
+    border-color: white;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    color: white;
+    text-decoration: none;
+}
